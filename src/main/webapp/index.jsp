@@ -15,16 +15,16 @@
     <form action="../upload" method="post" enctype="multipart/form-data" style="text-align: center">
         选择方式 <br>
         <input type="radio" value="1" name="name" >   主程序-子程序软件体系结构
-        <a href="details1.jsp"><button type="button">点击查看原理图</button></a>
+        <a href="details1.jsp"><button type="button">点击查看原理</button></a>
         <br>
         <input type="radio" value="2" name="name" > 面向对象软件体系结构
-        <a href="details2.jsp"><button type="button">点击查看原理图</button></a>
+        <a href="details2.jsp"><button type="button">点击查看原理</button></a>
         <br>
         <input type="radio" value="3" name="name" > 事件系统软件体系结构
-        <a href="details3.jsp"><button type="button">点击查看原理图</button></a>
+        <a href="details3.jsp"><button type="button">点击查看原理</button></a>
         <br>
         <input type="radio" value="4" name="name" >管道-过滤软件体系结构
-        <a href="details4.jsp"><button type="button">点击查看原理图</button></a>
+        <a href="details4.jsp"><button type="button">点击查看原理</button></a>
         <br>
         <input type="file" name="file"  >  <br>
         <input type="submit" value="提交" id="sbt">  <br>
